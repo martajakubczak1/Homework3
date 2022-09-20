@@ -5,7 +5,7 @@ public class Main {
         while (x < numbers.length) {
             ++x;
             if (x == 5) {
-                System.out.println("Znalazłem piątkę");
+                System.out.println("Znalazłem piątkę!");
                 break;
             }
         }
